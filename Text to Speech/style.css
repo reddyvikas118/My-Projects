@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+* {
+    margin: 0;
+}
+
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+#text {
+    width: 500px;
+    height: 250px;
+    padding: 10px;
+    margin: 30px;
+    background-color: #3b3759;
+    color: white;
+    font-size: 18px;
+    box-shadow: inset -10px -10px 15px rgba(0, 0, 0, 0.5),
+        inset 10px 10px 15px rgba(0, 0, 0, 0.5);
+    border-color: white;
+}
+
+#SpeechBtn {
+    background-color: #833ab4;
+    color: white;
+    width: 138px;
+    height: 36px;
+    border-width: 0;
+    border-radius: 20px;
+    align-self: center;
+}

@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+}
+
+#navItem2 {
+    color: #ffffff;
+}
+
+#navItem3 {
+    color: #ffffff;
+}
+
+#navItem4 {
+    color: #ffffff;
+}
+
+#navItem5 {
+    color: #ffffff;
+}
+
+.navbar-image {
+    width: 40vw;
+}
+
+.navbar {
+    background-color: #0C0521;
+    margin-left: auto;
+}
+
+.banner-container {
+    padding: 50px;
+    margin: 50px;
+}
+
+.banner-heading {
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+}
+
+.banner-span-heading {
+    color: #FFDDA9;
+}
+
+.bammer-paragraph {
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+}
+
+.banner-button {
+    background-color: #FFDDA9;
+    border-radius: 20px;
+    padding: 10px;
+    width: 150px;
+}
+
+.logo-heading {
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.logo-image {
+    height: 50px;
+    width: 50px;
+}
+
+.container {
+    padding: 20px;
+    margin: 20px;
+}
+
+.design-deliver-img {
+    width: 30vw;
+}
+
+.design-deliver-heading {
+    color: #323f4b;
+}
+
+.design-deliver-paragraph {
+    color: #7b8794;
+}
+
+.tools-section-heading {
+    color: #323f4b;
+    font-size: 25px;
+}
+
+.tools-section-paragraph {
+    color: #7b8794;
+}
+
+.features-section-main-heading {
+    color: #323f4b;
+    padding: 10px;
+}
+
+.features-section-heading {
+    color: #323f4b;
+    padding: 10px;
+    font-size: 28px;
+}
+
+.features-section-paragraph {
+    color: #7b8794;
+    padding: 10px;
+}
+
+.features-section-image {
+    width: 20vw;
+    padding: 10px;
+}
